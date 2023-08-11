@@ -1,8 +1,10 @@
 # API Utilizando Django
 
 ## Descrição
-Este projeto está sendo desenvolvido com objetivo de criar uma aplicação de cadastro de Atores e Filmes. 
-No decorrer do desenvolvimento serão utilizadas algumas tecnologias e frameworks para facilitar
+Este projeto foi desenvolvido na 2° aula de __Desenvolvimento e Deploy de aplicativo Web__, sendo ministrada pelo
+Me. Jonathan Alexander Castro Eras. O projeto teve como objetivo criar uma aplicação
+que pudesse ser possivel cadastrar Atores e Filmes na nossa base de dados utilizando o __SQLite3__. 
+No decorrer do desenvolvimento foi utilizado algumas tecnologias e frameworks para facilitar
 o desenvolvimento, como o __SQL Power Architect__ para modelagem do banco de dados.
 
 ## Configuração do Ambiente
